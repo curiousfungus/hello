@@ -1,3 +1,4 @@
 print("Hello cruel world")
 print("-Hello donkey")
 print("Hello kids")
+print("Don't you think this whole salutation thing have gone a litle too far?")
