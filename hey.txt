@@ -1,2 +1,3 @@
 print("Hello cruel world")
 print("-Hello donkey")
+print("Hello kids")
